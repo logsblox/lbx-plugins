@@ -1,10 +1,17 @@
 # Logsblox
 
-Cursor plugin for [Logsblox](https://logsblox.com). It lists projects and reads immutable application logs through `https://mcp.logsblox.com`.
+Cursor plugin for [Logsblox](https://logsblox.com). It lists projects and reads immutable application logs through `https://mcp.logsblox.com`. The same directory is the Claude Code plugin.
 
 ## Install
 
 Install **Logsblox** from Cursor **Browse MCPs**. Cursor connects to `https://mcp.logsblox.com` and starts sign-in.
+
+In Claude Code, add this marketplace and install the plugin:
+
+```bash
+claude plugin marketplace add logsblox/lbx-plugins
+claude plugin install logsblox@logsblox
+```
 
 ## Authentication
 

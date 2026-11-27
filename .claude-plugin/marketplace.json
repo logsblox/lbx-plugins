@@ -1,0 +1,14 @@
+{
+  "name": "logsblox",
+  "description": "Plugins that connect agents to Logsblox projects and immutable application logs.",
+  "owner": {
+    "name": "Logsblox"
+  },
+  "plugins": [
+    {
+      "name": "logsblox",
+      "source": "./logsblox",
+      "description": "Access Logsblox projects and immutable application logs."
+    }
+  ]
+}

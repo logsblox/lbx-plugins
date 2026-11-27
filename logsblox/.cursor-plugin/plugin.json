@@ -5,7 +5,7 @@
     "name": "Logsblox"
   },
   "homepage": "https://logsblox.com",
-  "repository": "https://github.com/logsblox/cursor-plugins",
+  "repository": "https://github.com/logsblox/lbx-plugins",
   "logo": "assets/logo.svg",
   "version": "0.1.0",
   "license": "MIT",
